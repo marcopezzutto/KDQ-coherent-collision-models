@@ -1,11 +1,11 @@
 # Non-positive-energy-quasidistributions-coherent-collision-models
 Non-positive energy quasidistributions in coherent collision models
 
-Non-positive energy quasidistributions in coherent collision models
-
 Marco Pezzutto, Gabriele De Chiara and Stefano Gherardini
 
 (Dated: February 25, 2025)
+
+Mathematica notebook.
 
 We determine the Kirkwood-Dirac quasiprobability (KDQ) distribution associated to the stochastic instances
 of internal energy variations for the quantum system and environmental particles in coherent Markovian collision
