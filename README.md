@@ -17,3 +17,5 @@ physics approach, we certify the conditions under which the collision process of
 traits, and we quantify the rate of energy exchanged by the quantum system by looking at the variance of the
 KDQ energy distributions. Finally, we propose an experimental test of our results on a superconducting quantum
 circuit implementing a qubit system, with microwave photons representing the environmental particles.
+
+The work contained in this notebook is presented in the article https://arxiv.org/abs/2503.07759.
